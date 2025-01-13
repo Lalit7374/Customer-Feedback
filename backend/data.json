@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Mr. Akash Varma",
+    "subject": "Java",
+    "experience": "5 Years",
+    "qualification": "MSc in Software Engineering",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Shray Khandalwal",
+    "subject": "MERN",
+    "experience": "7 Years",
+    "qualification": "PhD in Web Development",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Arshad Ali",
+    "subject": "Python",
+    "experience": "8 Years",
+    "qualification": "PhD in Computer Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Rohit Sharma",
+    "subject": "Python",
+    "experience": "10 Years",
+    "qualification": "MTech in Software Engineering",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Dr. Rajat Chouhan",
+    "subject": "Python",
+    "experience": "6 Years",
+    "qualification": "MSc in Computer Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Gaurav Mandoli",
+    "subject": "Python",
+    "experience": "9 Years",
+    "qualification": "PhD in Data Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Akshat Verma",
+    "subject": "Java",
+    "experience": "10 Years",
+    "qualification": "MTech in Software Engineering",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Dr. Ashutosh Sharma",
+    "subject": "Java",
+    "experience": "8 Years",
+    "qualification": "PhD in Computer Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Raghav Chouhan",
+    "subject": "Java",
+    "experience": "7 Years",
+    "qualification": "MSc in Software Engineering",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Akash Chouhan",
+    "subject": "Data Science",
+    "experience": "10 Years",
+    "qualification": "PhD in Data Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Shray Khandalwal",
+    "subject": "MERN",
+    "experience": "7 Years",
+    "qualification": "PhD in Web Development",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Romil Sharma",
+    "subject": "C++",
+    "experience": "8 Years",
+    "qualification": "MSc in Computer Science",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. John Doe",
+    "subject": "C++",
+    "experience": "5 Years",
+    "qualification": "MSc in Computer Engineering",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Jane Smith",
+    "subject": "MERN",
+    "experience": "6 Years",
+    "qualification": "MTech in Web Technologies",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Dr. Emily Johnson",
+    "subject": "Python",
+    "experience": "12 Years",
+    "qualification": "PhD in Machine Learning",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Mr. Robert Brown",
+    "subject": "Data Science",
+    "experience": "7 Years",
+    "qualification": "MSc in Data Analytics",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  },
+  {
+    "name": "Ms. Sarah Lee",
+    "subject": "Data Science",
+    "experience": "9 Years",
+    "qualification": "PhD in Artificial Intelligence",
+    "image": "https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg"
+  }
+]
