@@ -12,7 +12,7 @@ const JWT_SECRET = 'jkblhvjkgchfx4356789hjvkgchjfxgd@#$%^'
 app.use(cors());
 app.use(express.json());
 
-const MONGO_URL = "mongodb+srv://piyush:1234@integration.4meth.mongodb.net/feedback?retryWrites=true&w=majority&appName=Integration"
+const MONGO_URL = "mongodb://localhost:27017/faculty-feedback"
 
 mongoose.connect(MONGO_URL).then(() => {
     console.log("MongoDb connection Est.");
