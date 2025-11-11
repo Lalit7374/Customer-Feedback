@@ -49,4 +49,7 @@ The project implements **JWT authentication**, **RESTful APIs**, and **CRUD oper
 | **Version Control** | Git & GitHub |
 
 ---
+## ⚠️ Note
 
+I haven’t added the frontend files yet — I’m currently working on an improved UI design for a smoother and more attractive user experience.
+The frontend will be updated as soon as possible 🚀
