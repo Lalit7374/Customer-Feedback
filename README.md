@@ -6,7 +6,7 @@ It allows users to **share, manage, and view reviews** for hotels and services i
 
 The project implements **JWT authentication**, **RESTful APIs**, and **CRUD operations** for reviews — showcasing practical experience in **end-to-end web application development**.
 
-🔗 **GitHub Repository:** [github.com/Lalit7374/Customer-Review-System](https://github.com/Lalit7374/Customer-Review-System)
+🔗 **GitHub Repository:** [github.com/Lalit7374/Customer-Review-System](https://github.com/Lalit7374/Customer-Feedback.git)
 
 ---
 
